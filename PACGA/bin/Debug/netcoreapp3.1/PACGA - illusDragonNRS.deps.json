@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PACGA - illusDragonNRS/1.0.0": {
+        "runtime": {
+          "PACGA - illusDragonNRS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PACGA - illusDragonNRS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

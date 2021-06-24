@@ -1,0 +1,120 @@
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\SAM\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\User1\Documents\SAM\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\User1\Documents\SAM\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\User1\Documents\SAM\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\User1\Documents\SAM\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache
+C:\Users\User1\Documents\SAM\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Renaldo Fareza\Downloads\Compressed\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 23032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA NIH\UPDATE 27032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\semangat 31032021\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\User1\Documents\SAM\PACGA NIH\Semangat 01042021\semangat sammmm\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.deps.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.AssemblyInfo.vb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Debug\netcoreapp3.1\PACGA.genruntimeconfig.cache

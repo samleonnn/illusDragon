@@ -1,0 +1,15 @@
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Release\netcoreapp3.1\PACGA - illusDragonNRS.exe
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Release\netcoreapp3.1\PACGA - illusDragonNRS.deps.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Release\netcoreapp3.1\PACGA - illusDragonNRS.runtimeconfig.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Release\netcoreapp3.1\PACGA - illusDragonNRS.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Release\netcoreapp3.1\PACGA - illusDragonNRS.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\bin\Release\netcoreapp3.1\PACGA - illusDragonNRS.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA.MainForm.resources
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.AssemblyInfo.vb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.dll
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.pdb
+C:\Users\Samuel\Documents\SAMUEL\PU\TERM 5\6. Computer Graphics and Animation\Programming Assignment 1\Semoga selesai\PACGA\PACGA\obj\Release\netcoreapp3.1\PACGA - illusDragonNRS.genruntimeconfig.cache
